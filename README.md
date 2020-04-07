@@ -18,11 +18,13 @@ You will be sharing your IDE or desktop. We ask that you also reveal youself on 
 
 ## Mobbing
 
-All are welcome; please treat others with appropriate respect.
+All are welcome; please treat others with appropriate respect. The Golden Rule generally applies.
 
 Rotations will be 4 minutes for the upcoming session; this is subject to change.
 
 We rotate using the mob tool for remote programming (see above). (We will call it Mob for clarity moving forward.)
+
+We generally follow strong style pairing guidelines, but we don't necessarily have a strict singular navigator.
 
 We do brief restrospection for every runthrough of the mobbing lineup.
 

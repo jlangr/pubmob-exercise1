@@ -8,7 +8,7 @@ We do test-drive our code with straight-up TDD.
 
 You're welcome to join the Pub Mob! First, though:
 
-* Install (Mob)[https://github.com/mobprogramming/]. We'll be using Zoom, so try to configure the part about automating the Zoom share.
+* Install (Mob)[https://github.com/mobprogramming/mob]. We'll be using Zoom, so try to configure the part about automating the Zoom share.
 * Send me your Git user ID and I will send you an invite so that you can push to this repo.
 * I'll have you do a test push to ensure you're able to push without troubles.
 
